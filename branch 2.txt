@@ -1,2 +1,6 @@
 test 2 gais
+<<<<<<< HEAD
 test 4 gais
+=======
+test 3 gais
+>>>>>>> master
